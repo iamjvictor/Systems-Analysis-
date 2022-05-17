@@ -1,0 +1,1 @@
+Neste repositório contem apenas um trabalho academico da máteira de Análise e projeto de Sistemas, onde foi possivel analisar um sistema sendo projetado para uma rede de FastFood 
